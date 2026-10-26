@@ -1,0 +1,34 @@
+body{
+    background-color: #FFF9D2;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: #8CC0EB;
+}
+
+form{
+    background-color: #BFDDF0;
+    box-shadow: 0 1px 2px 0 gray;
+    padding: 10px;
+    border-radius: 5px;
+    width: 720px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+table {
+    width: 100%;
+    border-style: groove;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 5px;
+}
+
+
+input[type="submit"] {
+    background-color: #FFF9D2;
+}
